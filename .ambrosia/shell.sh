@@ -1,0 +1,7 @@
+alias clean='cd android && ./gradlew clean && cd ../../Ambrosia'
+alias release='cd android && ./gradlew bundleRelease && cd ../../Ambrosia'
+alias copy='cp -r android/app/build/outputs/bundle/release/app-release.aab /mnt/d/Pebojot/'
+alias testRelease='npx react-native run-android --variant=release'
+alias build='npx react-native run-android'
+alias start='npx react-native start'
+alias help='npx react-native --help'

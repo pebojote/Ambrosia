@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="http://material-bread.org/logo-shadow.svg" alt="Ambrosia banner">
+  <img width="100%" src=".ambrosia/banner.png" alt="Ambrosia banner">
 </p>
 
 <div>
@@ -9,7 +9,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/workpebojot/Ambrosia)](https://github.com/workpebojot/Ambrosia/network)
 [![GitHub stars](https://img.shields.io/github/stars/workpebojot/Ambrosia)](https://github.com/workpebojot/Ambrosia/stargazers)
 [![GitHub license](https://img.shields.io/github/license/workpebojot/Ambrosia)](https://github.com/workpebojot/Ambrosia/)
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fworkpebojot%2FAmbrosia)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fworkpebojot)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fworkpebojot%2FAmbrosia)
 
 </div>
 
@@ -23,8 +23,6 @@
     <h2>Motivation</h2>
 </div>
 
----
-
 
 The **Ambrosia** project is created to solve food distribution in the community of Dingalan, Aurora.
 
@@ -33,18 +31,15 @@ The **Ambrosia** project is created to solve food distribution in the community 
     <h2>Screenshot</h2>
 </div>
 
----
-
 
 <p>
     Not yet available
 </p>
 
 <div style="text-align: left;">
-    <h2>Technology and Framework used</h2>
+    <h2>Tools used</h2>
 </div>
 
----
 
 - React Native Framework
 - Java and TypeScript
@@ -54,7 +49,6 @@ The **Ambrosia** project is created to solve food distribution in the community 
     <h2>Code Example</h2>
 </div>
 
----
 
 <p>
     Not yet available
@@ -64,7 +58,6 @@ The **Ambrosia** project is created to solve food distribution in the community 
     <h2>Installation</h2>
 </div>
 
----
 
 1. git clone https://github.com/workpebojot/Ambrosia.git
 2. cd Ambrosia
@@ -75,7 +68,6 @@ The **Ambrosia** project is created to solve food distribution in the community 
     <h2>How to use</h2>
 </div>
 
----
 
 In order to use this app, you have two options, you can use either use AVD or ADB support. To setup AVD, you can head to AVD Manual Guide at Android Developer Website: [Create New AVD](https://developer.android.com/studio/run/managing-avds.html). To setup ADB, plug in your devices and run `react-native run-android`. However, since this app is still new, I'm not still sure if `react-native run-ios` will run correctly. But it will sure it can be configured for right patching.
 
@@ -83,6 +75,5 @@ In order to use this app, you have two options, you can use either use AVD or AD
     <h2>Contribute</h2>
 </div>
 
----
 
 I would like to invite everyone interested to expand on this simple project. If you are interested, kindly hit [here](https://github.com/workpebojot/Ambrosia/blob/master/CONTRIBUTE.md)
